@@ -2,7 +2,7 @@
 
 The goal for this project was to build a multilayer perceptron for image classification. All model components including input, hidden, and output layers
 along with backpropagation, and stochastic gradient descent with L2 regularization are implemented from in Python/CuPy. Additionally, we perform hyperparameter optimization and compare the 
-accuracy of several differnet MLP architectures to a CNN. A more complete discussion can be found in `MLP.pdf`.
+accuracy of several differnet MLP architectures to a CNN. A more complete discussion can be found in `MLP_report.pdf`.
 
 ## Trying it out
 
